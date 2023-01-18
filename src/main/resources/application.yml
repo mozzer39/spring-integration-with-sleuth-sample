@@ -1,0 +1,9 @@
+server:
+  port: 8084
+
+outbound:
+  service:
+
+spring:
+  application:
+    name: spring-integration-retry-advice
